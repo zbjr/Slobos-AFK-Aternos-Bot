@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "StartupPlayer",
     "password": "",
     "type": "offline"
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Ziyad is a cool dev!",
         "I like to play Minecraft!"
       ]
     },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1526697008130425024/r9ioebeujoP-1ib-DuGCieEo9PdUhoIC-xiHbBDhac-u5uW0bt15dHWxINkzS5aY-s_m",
     "events": {
       "connect": true,
       "disconnect": true,
